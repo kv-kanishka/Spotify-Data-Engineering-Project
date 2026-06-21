@@ -1,0 +1,15 @@
+{
+	"name": "adf-azureeeeproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "918a8fa5-b565-4752-be53-b51e553f018d",
+		"tenantId": "ecb614a5-94e8-4feb-9dd9-2bad5265c4c7"
+	}
+}

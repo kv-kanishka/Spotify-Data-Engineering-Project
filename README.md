@@ -79,11 +79,9 @@ Analytics & Reporting
 
 The repository contains screenshots demonstrating different stages of the project, including:
 
-- Azure SQL Database
 - Azure Data Factory Pipelines
 - Azure Data Lake Storage Gen2
 - Azure Databricks Workspace
-- Bronze, Silver, and Gold layers
 - Incremental Pipeline Execution
 - Databricks Asset Bundle Deployment
 
